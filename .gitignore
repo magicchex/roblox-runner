@@ -1,0 +1,19 @@
+# Vscode Folder
+.vscode
+
+# Moonwave
+build
+
+# Wally Dependencies
+Packages
+
+# Hide env
+.env
+
+# Rojo (Roblox) default place file location
+*.rbxlx
+*.rbxl
+
+# Roblox Studio lock files
+*.rbxlx.lock
+*.rbxl.lock
